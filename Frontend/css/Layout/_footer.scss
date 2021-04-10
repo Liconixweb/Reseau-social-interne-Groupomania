@@ -1,0 +1,19 @@
+#footer{    
+    height: 20%;
+    width: 100%;
+}
+#footer div{
+    display: flex;
+    flex-flow: column wrap;
+    height: 5%;
+}
+#footer a{
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    line-height: 30px;
+    width: 100%;
+}    
+#footer a:hover{
+    font-weight: bold;
+}
